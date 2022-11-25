@@ -1,0 +1,44 @@
+img {
+    height: 1920px;
+    width: 100%;
+}
+
+div {
+    height: 500px;
+    position: absolute;
+    background-color:  rgba(61, 61, 65, 0.3);
+}
+    @media (max-width: 576px) { img {
+        height: 800px
+    }
+
+    }
+.nig {
+    color: red;
+}
+.click {
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    right: 20%;
+    font-size: 80px;
+    font-weight: 500;
+    color: red;
+}
+.kill {
+    position: absolute;
+    bottom: -30%;
+ margin-left: 50%;
+ color: red;
+ background-color: black;
+ width: 80vh;
+ height: 80vh;
+}
+.kkk { 
+    color: red;
+
+}
+.kkkk{
+    max-width: 600px;
+    max-height: 600px;
+}
